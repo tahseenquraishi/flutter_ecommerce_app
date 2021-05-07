@@ -1,3 +1,4 @@
+<img width="1048" alt="Screenshot 2021-04-28 at 3 00 49 PM" src="https://user-images.githubusercontent.com/28984101/117434304-22219900-af4a-11eb-9520-8f29e9c7fffc.png">
 # flutter_ecommerce_app
 
 A new Flutter project.
